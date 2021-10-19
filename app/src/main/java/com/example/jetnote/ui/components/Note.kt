@@ -45,7 +45,7 @@ fun Notes(){
         ) {
 
             Text(
-                text = "Vo Thi Nhi" ,
+                text = "My name is Nhu Mai. I'm 20 years old." ,
                 maxLines = 1,
                 color=Color.Black,
                 style = TextStyle(
